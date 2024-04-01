@@ -3,8 +3,8 @@
 ```markdown
 # WireGuard VPN Server Setup Script
 
-This script automates the installation and configuration of a WireGuard VPN server on a Linux system. WireGuard is a simple, fast, and modern VPN that utilizes state-of-the-art cryptography.
-
+This script automates installing and configuring a WireGuard VPN server on a Linux system. WireGuard is a simple, fast, modern VPN with state-of-the-art cryptography.
+```
 ## Prerequisites
 
 - A Linux server (Debian/Ubuntu or CentOS/RHEL based)
